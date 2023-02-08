@@ -11,26 +11,20 @@ c. print
 d. exit
 
 ## Sample input
+n=10
 
-`a=4 3`
+### input:
 
-`a=3 8`
+- a=4 3
+- a=3 8
+- a=6 5
+- a=9 4
+- a=2 1
+- a=5 0
+- a=7 2
+- a=6 1
+- a=7 3
+- a=1 8
+- 
 
-`a=6 5`
-
-`a=9 4`
-
-`a=2 1`
-
-`a=5 0`
-
-`a=7 2`
-
-`a=6 1`
-
-`a=7 3`
-
-`a=1 8`
-
-` `
-
+`copy until the empty dot`
